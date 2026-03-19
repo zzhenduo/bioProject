@@ -23,7 +23,7 @@ const AI_CONFIG = {
   
   // 智谱 AI 配置
   zhipu: {
-    apiKey: process.env.ZHIPU_API_KEY || '9470482abb7742a99fe9f6bca940a826.cRxmmbDSCKT7YOUT',
+    apiKey: process.env.ZHIPU_API_KEY || 'your-wenxin-api-key',
     baseURL: 'https://open.bigmodel.cn/api/paas/v4',
     model: 'glm-4'
   },
